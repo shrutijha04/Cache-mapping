@@ -5,7 +5,7 @@ import java.util.*;
 /*This code includes the level 2 cache implementation(bonus task) along with the level 1 cache implementation(end-sem assignment). */
 // Both end-sem assignment and bonus task are implemented in the program below://
 
-class shruti_2019274_FinalAssignment {
+class Main{
 	
 	public static int[] mainmemory=new int[65536]; //array to implement main memory
 
